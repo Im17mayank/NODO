@@ -7,10 +7,8 @@ Group Number: 5
 #### Members:
 1. Muskan Rathore            – 2023lm70026@wilp.bits-pilani.ac.in
 2. Mayank Das                – 2023lm70030@wilp.bits-pilani.ac.in 
-3. Sidhant Kundu             – 2023lm70031@wilp.bits-pilani.ac.in
-4. Abhinav Akhilesh Upadhyay – 2023lm70028@wilp.bits-pilani.ac.in
+3. Abhinav Akhilesh Upadhyay – 2023lm70028@wilp.bits-pilani.ac.in
 ##### Roles
-- A – User Researcher, Programmer        - Sidhant Kundu
-- B – Technical Analyst, Programmer      - Mayank Das
-- C – User Researcher, Technical Analyst - Muskan Rathore
-- D – Programmer, Tester                 - Abhinav Akhilesh Upadhyay
+- A – Technical Analyst, Programmer, UI/UX      - Mayank Das
+- B – User Researcher, Technical Analyst - Muskan Rathore
+- C – Programmer, Tester                 - Abhinav Akhilesh Upadhyay
